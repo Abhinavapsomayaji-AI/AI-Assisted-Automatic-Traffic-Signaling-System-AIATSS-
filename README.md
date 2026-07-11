@@ -4,7 +4,7 @@
 
 ## *Built With*
 
-The AIATSS is made by using Python Programming language. It is fast,efficient, powerful,simple, easy to understand and code.
+The AIATSS is made by using Python Programming language. It is fast,efficient, powerful,simple and easy to understand and code.
 To Visualise on how code works and how the vehicles and simulate a real world scenarios, I used Pygame software which allows us to build a 2-D Graphical User Interface(GUI).This allows us to animate traffic flow, visually see the process, track vehicle coordination,etc.
 
 ## * Vehicle Object Modeling *
