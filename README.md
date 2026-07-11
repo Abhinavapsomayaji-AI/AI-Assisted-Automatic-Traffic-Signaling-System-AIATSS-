@@ -12,7 +12,9 @@ Instead of just using random shapes as Vehicles, The code treates vehicles as un
 there are 3 types of vehicles used in the code(only used 3 for simplicity) and each vehicle type is assigned its own real world(bounding box size) and natural speed limits.
 
 1)Motorbikes(orange in colour) are small, agile and move fast
+
 2)Cars(Blue in Colour), take up average lane space and move at normal speeds 
+
 3)Buses(Violet in colour) are large, move slowly and require large gap to halt  
 
 
