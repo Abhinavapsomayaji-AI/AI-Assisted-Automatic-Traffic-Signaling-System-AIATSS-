@@ -17,6 +17,7 @@ To focus more on signaling logic, the layout is kept simple, basic and easy to i
 
 **Stop Coordinates:** Specific pixel thresholds are mapped out on the Pygame coordinate system directly behind the crosswalk area, acting as the hard boundary line where vehicles must poll the signal state and come to a complete stop during a red phase or continue in their path during the green phase.
 
+![Simulation Vehicles Preview](Road Layout.png)
 
 
 
