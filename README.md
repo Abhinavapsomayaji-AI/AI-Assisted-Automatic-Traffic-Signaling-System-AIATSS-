@@ -13,11 +13,13 @@ To focus more on signaling logic, the layout is kept simple, basic and easy to i
 
 **Intersection Grid:** A classic 4-intersention maps out traffic flow form all four directions **North, South, East and West**.Each road has its own signal situated right before the crossing zone.
 
+![Simulation Vehicles Preview](R.png)
+
 **Lanes:** Each road is designed as a two way street where "the yellow colour line" seperates the 2 opposite traffic lanes . Only two-lane setup chosen was chosen to maintain simplicity. 
 
 **Stop Coordinates:** Specific pixel thresholds are mapped out on the Pygame coordinate system directly behind the crosswalk area, acting as the hard boundary line where vehicles must poll the signal state and come to a complete stop during a red phase or continue in their path during the green phase.
 
-![Simulation Vehicles Preview](Road.png)
+![Simulation Vehicles Preview](Road.png)    
 
 
 ## *Vehicle Object Modeling*
