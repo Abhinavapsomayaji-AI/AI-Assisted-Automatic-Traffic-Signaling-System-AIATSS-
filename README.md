@@ -34,6 +34,25 @@ there are 3 types of vehicles used in the code(only used 3 for simplicity) and e
 
 ![Simulation Vehicles Preview](Pygame.png)
 
+## *Simulation Mechanics and Core Logic*
+
+The working of AIATSS relies mainly on 2 main software engines running simultaneously inside the Pygame loop:
+
+### 1) Proxymity Based Collision Detection: 
+(not needed for real life application but for the software to work propely minimising vehicle overlapping in Pygame)
+
+To Prevent vehicles from overlapping or clinging to each other as they travel down the lane, the code implements a real time safety boundary buffer. The Systems that help maintain these are:
+**Distance Check**: Each and every vehicle monitors pixel coordinate gap between its front and rear of the vehicle ahead of it in the same lane. 
+
+### 2) The Dynamic AI Signaling Override: 
+This is a core and main feature of the AIATSS which can be used in real life appliction and it solves the problem of real world problem faced like 300-second dead timer as mentioned above and which side to give priority red or green accourding to the traffic density. 
+
+Instead of blindly counting down, the siganlling framework acts like an intelligent traffic controller:
+
+**Live Density Tracking:** The algorithm constantly counts the active vehicle objects waiting in the Horizontal lanes (East/West) versus the Vertical lanes (North/South).
+
+**Congestion Override**: This is Personally my favorite part of the AIATSS as this part solves one of the main problems I have with the traditional signal. If a green lane becomes completely clear of traffic while the opposing red lane develops a massive queue of vehicles, the system instantly detects the density imbalance. It overrides the remaining timer, triggers a yellow transition phase, and immediately gives the green light to the congested lane to clear the backlog. 
 
 
 
+                                      
