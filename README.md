@@ -42,6 +42,7 @@ The working of AIATSS relies mainly on 2 main software engines running simultane
 (not needed for real life application but for the software to work propely minimising vehicle overlapping in Pygame)
 
 To Prevent vehicles from overlapping or clinging to each other as they travel down the lane, the code implements a real time safety boundary buffer. The Systems that help maintain these are:
+
 **Distance Check**: Each and every vehicle monitors pixel coordinate gap between its front and rear of the vehicle ahead of it in the same lane. 
 
 ### 2) The Dynamic AI Signaling Override: 
