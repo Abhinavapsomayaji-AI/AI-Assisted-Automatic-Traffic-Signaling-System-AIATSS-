@@ -54,6 +54,8 @@ Instead of blindly counting down, the siganlling framework acts like an intellig
 
 **Congestion Override**: This is Personally my favorite part of the AIATSS as this part solves one of the main problems I have with the traditional signal. If a green lane becomes completely clear of traffic(or if the active vehicle flow drops below a minimum threshold) while the opposing red lane develops a massive queue of vehicles, the system instantly detects the density imbalance. It overrides the remaining timer, triggers a yellow transition phase, and immediately gives the green light to the congested lane to clear the congession. 
 
+***Two Recodrdings showing the process happen**
+
 
 
                                       
