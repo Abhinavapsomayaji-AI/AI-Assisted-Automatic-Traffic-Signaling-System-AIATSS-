@@ -57,4 +57,10 @@ Instead of blindly counting down, the siganlling framework acts like an intellig
 **Two Recordings showing the process happen**
 
 ![Congestion Override Demo](Rec1.gif)     ![Congestion Override Demo](GIF.gif)
-                                      
+
+
+###Future Improvements:
+
+Of course this still a basic model and there is a lot of work to be done and new features to add some of them that i have in mind are:
+
+**Syncronizing with adjecent/Nearby signals:**
