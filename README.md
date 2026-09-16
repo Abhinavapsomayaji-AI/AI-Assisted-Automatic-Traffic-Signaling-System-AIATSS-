@@ -66,6 +66,3 @@ Of course this still a basic model and there is a lot of work to be done and new
 **Syncronizing with adjecent/Nearby signals:**
 
 ##  How to Run
-
-1. Clone the repository:
-git clone https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Traffic-Signaling-System.git
