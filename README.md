@@ -68,5 +68,4 @@ Of course this still a basic model and there is a lot of work to be done and new
 ##  How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Traffic-Signaling-System.git](https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Traffic-Signaling-System.git)
+git clone https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Traffic-Signaling-System.git
