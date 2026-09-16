@@ -64,3 +64,9 @@ Instead of blindly counting down, the siganlling framework acts like an intellig
 Of course this still a basic model and there is a lot of work to be done and new features to add some of them that i have in mind are:
 
 **Syncronizing with adjecent/Nearby signals:**
+
+##  How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Traffic-Signaling-System.git](https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Traffic-Signaling-System.git)
