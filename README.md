@@ -66,3 +66,6 @@ Of course this still a basic model and there is a lot of work to be done and new
 **Syncronizing with adjecent/Nearby signals:**
 
 ##  How to Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-](https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-)
