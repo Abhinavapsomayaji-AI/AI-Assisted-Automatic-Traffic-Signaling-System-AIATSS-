@@ -22,7 +22,7 @@ To focus more on signaling logic, the layout is kept simple, basic and easy to i
 ![Simulation Vehicles Preview](Road.png)    
 
 
-## *Vehicle Object Modeling*
+## *Vehicle Object Modeling*🪛
 Instead of just using random shapes as Vehicles, The code treates vehicles as unique entities by using Object-Oriented Programming.
 there are 3 types of vehicles used in the code(only used 3 for simplicity) and each vehicle type is assigned its own real world(bounding box size) and natural speed limits.
 
@@ -34,7 +34,7 @@ there are 3 types of vehicles used in the code(only used 3 for simplicity) and e
 
 ![Simulation Vehicles Preview](Pygame.png)
 
-## *Simulation Mechanics and Core Logic*
+## *Simulation Mechanics and Core Logic*⚙️
 
 The working of AIATSS relies mainly on 2 main software engines running simultaneously inside the Pygame loop:
 
@@ -59,7 +59,7 @@ Instead of blindly counting down, the siganlling framework acts like an intellig
 ![Congestion Override Demo](Rec1.gif)     ![Congestion Override Demo](GIF.gif)
 
 
-### **Future Improvements:**
+### **Future Improvements:**📈
 
 Of course this still a basic model and there is a lot of work to be done and new features to add some of them that i have in mind are:
 
