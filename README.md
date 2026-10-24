@@ -67,6 +67,10 @@ Of course this still a basic model and there is a lot of work to be done and new
 
 It is going to take some time to apply this in real life but ultimately for this system to work seamlessly this needs to be done. For this my idea is that all the signals in a particular city or area are connected to each other to one central management system. This ensures that when vehicles just passed a green signal and there are other traffic signals downstream, the downstream signals adapt dynamically to maintain a smooth, continuous flow and similar process can be done for red signal.    
 
+**Emergency Vehicle Prioritization:**
+It is common in major cities with heavy traffic, emergency vehicles like Fire engines, Ambulances, or Government vehicles may get stuck in traffic which might causes disasters so I want to make AIATSS in such a way that through its CV systems, prior info from nearby signals or personell it is always giving high priority green signal to the direction of the important vehicle.
+
+
 ##  How to Run
 1. Clone the repository:
    ```bash
