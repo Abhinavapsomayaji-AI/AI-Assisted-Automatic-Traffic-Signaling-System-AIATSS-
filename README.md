@@ -65,7 +65,7 @@ Of course this still a basic model and there is a lot of work to be done and new
 
 **Synchronizing with adjecent/Nearby signals:**
 
-It is going to take some time to apply this in real life but ultimatly for this system to work seamlessly this needs to be done. For this my idea is the in the city or a particular are all the signals are connected to each other to one central management system. This ensures that when vehicles just passed a green signal and there is an another traffic signals downstream, the downstream signals adapt dynamically to maintain a smooth, continuous flow also similar process can be done by synchronizing it for red too.    
+It is going to take some time to apply this in real life but ultimately for this system to work seamlessly this needs to be done. For this my idea is that all the signals in a particular city or area are connected to each other to one central management system. This ensures that when vehicles just passed a green signal and there is an another traffic signals downstream, the downstream signals adapt dynamically to maintain a smooth, continuous flow and similar process can be done for red signal.    
 
 ##  How to Run
 1. Clone the repository:
