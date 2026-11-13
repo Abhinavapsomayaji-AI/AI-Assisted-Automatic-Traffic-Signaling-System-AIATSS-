@@ -73,6 +73,11 @@ It is common in major cities with heavy traffic, emergency vehicles like fire en
 
 
 ##  How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-
+Clone the repository and run the simulation locally using Jupyter Notebook:
+
+```bash
+git clone https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-
+cd AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-
+pip install pygame notebook
+python -m notebook
+
