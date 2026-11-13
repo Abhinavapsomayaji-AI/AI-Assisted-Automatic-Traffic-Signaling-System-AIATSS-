@@ -75,4 +75,4 @@ It is common in major cities with heavy traffic, emergency vehicles like fire en
 ##  How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-](https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-)
+   git clone https://github.com/Abhinavapsomayaji-AI/AI-Assisted-Automatic-Traffic-Signaling-System-AIATSS-
