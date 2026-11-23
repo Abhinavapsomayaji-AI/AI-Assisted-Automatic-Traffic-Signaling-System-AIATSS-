@@ -11,7 +11,7 @@ To Visualise on how code works and how the vehicles and simulate a real world sc
 ## *Intersection and Road layout*🏗️:
 To focus more on signaling logic, the layout is kept simple, basic and easy to interpret:
 
-**Intersection Grid:** A classic 4-intersention maps out traffic flow form all four directions **North, South, East and West**.Each road has its own signal situated right before the crossing zone.
+**Intersection Grid:** A classic 4-intersection maps out traffic flow form all four directions **North, South, East and West**.Each road has its own signal situated right before the crossing zone.
 
 ![Simulation Vehicles Preview](R.png)
 
